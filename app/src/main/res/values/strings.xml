@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Pocket Tracker</string>
+    <string name="nilai_nol">Rp0</string>
+    <string name="total_pemasukan">Pemasukan</string>
+    <string name="total_pengeluaran">Pengeluaran</string>
+    <string name="label_keterangan">Judul</string>
+    <string name="hint_keterangan">cth. jajan</string>
+    <string name="label_nominal">Nominal</string>
+    <string name="hint_nominal">cth 5000</string>
+    <string name="label_tipe">Tipe</string>
+    <string name="tipe_pemasukan">Pemasukan</string>
+    <string name="tipe_pengeluaran">Pengeluaran</string>
+    <string name="label_nominal_hint">Nominal</string>
+    <string name="label_keterangan_hint">Keterangan / Judul</string>
+    <string name="label_detail_transaksi">Detail Transaksi</string>
+    <string name="label_detail_hint">Masukkan informasi pemasukan atau pengeluaran Anda</string>
+    <string name="label_waktu">Waktu</string>
+    <string name="label_pilih_waktu">Pilih Waktu</string>
+    <string name="label_kategori">Kategori</string>
+    <string name="filter_3bln">3 Bln</string>
+    <string name="filter_pilih_bulan">Pilih Bulan</string>
+    <string name="filter_rentang">Rentang</string>
+    <string name="label_tanggal">Tanggal Aktivitas</string>
+    <string name="tombol_pilih_tanggal">Pilih tanggal</string>
+    <string name="tombol_simpan">Simpan</string>
+    <string name="label_hapus">Hapus</string>
+    <string name="judul_fore_tambah">Tambah Transaksi</string>
+    <string-array name="daftar_kategori">
+        <item>Makanan &amp; Minuman</item>
+        <item>Transportasi</item>
+        <item>Belanja</item>
+        <item>Gaji</item>
+        <item>Tagihan &amp; Utilitas</item>
+        <item>Hiburan</item>
+        <item>Lainnya</item>
+    </string-array>
+</resources>
