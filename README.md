@@ -1,4 +1,8 @@
-# Pocket Tracker
+# Pocket Tracker Kelompok 3
+- Sadewa Virgiawansyah
+- M. Hilal Al Faris
+- Ibnu Alfin Rizky Mubarok
+- Hishon Wutsqo S.A
 
 Pocket Tracker adalah aplikasi pencatat keuangan sederhana untuk membantu pengguna memantau saldo dan riwayat transaksi.
 
